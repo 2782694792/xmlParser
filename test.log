@@ -1,0 +1,2 @@
+[2022-11-29 16:12:45,196.830] [48316] DEBUG - test : <XML ID="1" pos="first"><XML1 ID="1.1" pos="1"><XML2 ID="1.2" pos="2">this is a third xml element</XML2><XML3 ID="1.3" pos="3">this is a fourth xml element</XML3>this is a second xml element</XML1>this is a first xml element</XML>
+[DEBUG]
