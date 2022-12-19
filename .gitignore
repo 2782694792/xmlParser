@@ -11,3 +11,4 @@ res
 *.lib
 .log
 .txt
+logconfig.property
